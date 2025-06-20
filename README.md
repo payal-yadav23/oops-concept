@@ -26,5 +26,5 @@ The four pillars of OOP that help build modular, maintainable, and scalable appl
 
 ---
 
-## 📂 Repository Layout
+
 
